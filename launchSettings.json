@@ -1,0 +1,36 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": true,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:53911",
+      "sslPort": 44399
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "urlshort",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DATABASE_NAME": "UrlDb",
+        "URL_COLLECTION_NAME": "URLS",
+        "CONNECTION_STRING": "mongodb://localhost"
+      }
+    },
+    "UrlShortnerServiceApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "urlshort",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DATABASE_NAME": "UrlDb",
+        "URL_COLLECTION_NAME": "URLS",
+        "CONNECTION_STRING": "mongodb://localhost"
+      }
+    }
+  }
+}

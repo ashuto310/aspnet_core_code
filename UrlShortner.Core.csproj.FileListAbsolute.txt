@@ -1,0 +1,9 @@
+C:\Users\ashutoshk\Desktop\UrlShortner.Core\bin\Debug\netstandard2.0\UrlShortner.Core.deps.json
+C:\Users\ashutoshk\Desktop\UrlShortner.Core\bin\Debug\netstandard2.0\UrlShortner.Core.dll
+C:\Users\ashutoshk\Desktop\UrlShortner.Core\obj\Debug\netstandard2.0\UrlShortner.Core.csprojAssemblyReference.cache
+C:\Users\ashutoshk\Desktop\UrlShortner.Core\obj\Debug\netstandard2.0\UrlShortner.Core.AssemblyInfoInputs.cache
+C:\Users\ashutoshk\Desktop\UrlShortner.Core\obj\Debug\netstandard2.0\UrlShortner.Core.AssemblyInfo.cs
+C:\Users\ashutoshk\Desktop\UrlShortner.Core\bin\Debug\netstandard2.0\UrlShortner.Core.pdb
+C:\Users\ashutoshk\Desktop\UrlShortner.Core\obj\Debug\netstandard2.0\UrlShortner.Core.csproj.CoreCompileInputs.cache
+C:\Users\ashutoshk\Desktop\UrlShortner.Core\obj\Debug\netstandard2.0\UrlShortner.Core.dll
+C:\Users\ashutoshk\Desktop\UrlShortner.Core\obj\Debug\netstandard2.0\UrlShortner.Core.pdb
